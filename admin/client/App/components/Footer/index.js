@@ -69,7 +69,7 @@ const linkHoverAndFocus = {
 };
 const classes = {
 	footer: {
-		backgroundColor: '#0097a7',
+		backgroundColor: '#DA1A39',
 		boxShadow: '0 -1px 0 rgba(0, 0, 0, 0.3)',
 		color: theme.color.gray15,
 		fontSize: theme.font.size.small,

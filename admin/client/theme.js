@@ -41,15 +41,15 @@ theme.container = {
 
 theme.color = {
 	body:                '#fafafa',
-	link:                '#0097a7',
-	linkHover:           lighten('#0097a7', 10),
+	link:                '#DA1A39',
+	linkHover:           lighten('#DA1A39', 10),
 	text:                '#1A1A1A',
 
 	// contextual
 	success:             '#34c240',
 	create:              '#34c240', // alias for success
-	primary:             '#0097a7',
-	info:                '#0097a7', // alias for primary
+	primary:             '#DA1A39',
+	info:                '#DA1A39', // alias for primary
 	warning:             '#FA3',
 	danger:              '#d64242',
 	error:               '#d64242', // alias for danger
@@ -66,7 +66,7 @@ theme.color = {
 	gray15:              '#D9D9D9',
 	gray10:              '#E5E5E5',
 	gray05:              '#F2F2F2',
-	bpcolor:			 '#0097a7',
+	bpcolor:			 '#DA1A39',
 
 	// social
 	facebook:            '#3B5998',
